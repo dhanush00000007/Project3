@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.page_header {
+  @apply text-[32px] text-gray-700 ml-2 font-semibold ;
+}
+
+.sidebar_style {
+  @apply text-gray-700 ;
+}
+
+
